@@ -1,4 +1,4 @@
-### This is a source for all files for H games. The section is more suitable for creating a decompiler.
+### This is a collection of all the files for the H game. This section is more suitable for creating decoders.
 
 |     Type      |   File extension   |   
 | :---: | :---: |
