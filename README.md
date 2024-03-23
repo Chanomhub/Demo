@@ -2,7 +2,7 @@
 
 |     Type      |   File extension   |   
 | :---: | :---: |
-| RPGM  |  .rvdata2 | .json |
+| RPGM  |  .rvdata2, .json |
 | Unity  | ❌  | 
 |  RPG Wolf  | ❌  | 
 | Godot Engine  | ❌  | 
